@@ -1,6 +1,6 @@
 main: AlphaVantage_Get_balance_sheet.ipynb
-title: "The Jupyter book example" 
-description: "This is a Jupyter book on the economics of finance." 
+title: "AlphaVantage Workflows" 
+description: "Using Naas' AlphaVantage template and publishing to Kyso." 
 organization: acme-r-and-d 
 team: naas-templates 
 type: jupyter

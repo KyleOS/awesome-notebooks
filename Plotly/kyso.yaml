@@ -1,6 +1,6 @@
 main: Plotly_Create_Candlestick.ipynb
-title: "The Jupyter book example" 
-description: "This is a Jupyter book on the economics of finance." 
+title: "Plotly Charts" 
+description: "Using Naas' Plotly template and publishing to Kyso." 
 organization: acme-r-and-d 
 team: naas-templates 
 type: jupyter
