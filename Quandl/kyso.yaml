@@ -1,0 +1,6 @@
+title: "The Jupyter book example" 
+description: "This is a Jupyter book on the economics of finance." 
+organization: acme-r-and-d 
+team: naas-templates 
+type: jupyter
+tags: [quandl, finance]

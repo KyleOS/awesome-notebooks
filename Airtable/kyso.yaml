@@ -1,0 +1,12 @@
+title: "The Jupyter book example" 
+description: "This is a Jupyter book on the economics of finance." 
+organization: acme-r-and-d 
+team: naas-templates 
+type: meta
+tags: [quandl, finance]
+reports:
+  - Airtable
+  - AlphaVantage
+  - Plotly
+  - Quandl
+  - Stripe
