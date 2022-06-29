@@ -1,0 +1,7 @@
+type: meta
+reports:
+  - Airtable
+  - AlphaVantage
+  - Plotly
+  - Quandl
+  - Stripe
