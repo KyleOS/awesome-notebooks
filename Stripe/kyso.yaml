@@ -4,4 +4,4 @@ description: "Using Naas' Stripe template and publishing to Kyso."
 organization: acme-r-and-d 
 team: naas-templates 
 type: jupyter
-tags: [quandl, finance]
+tags: [stripe, balances, snippet, operations, dataframe]

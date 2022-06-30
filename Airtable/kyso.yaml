@@ -3,5 +3,6 @@ title: "Airtable Workflows"
 description: "Using Naas' Airtable template and publishing to Kyso." 
 organization: acme-r-and-d 
 team: naas-templates 
-tags: [quandl, finance]
+tags: [airtable, database, productivity, spreadsheet, naas_drivers, operations, snippet, dataframe]
 type: jupyter
+preview: images/preview.png

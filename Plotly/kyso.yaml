@@ -3,5 +3,5 @@ title: "Plotly Charts"
 description: "Using Naas' Plotly template and publishing to Kyso." 
 organization: acme-r-and-d 
 team: naas-templates 
+tags: [plotly, chart, candlestick, group, dataviz, snippet, operations, image, html]
 type: jupyter
-tags: [quandl, finance]
