@@ -5,4 +5,4 @@ organization: acme-r-and-d
 team: naas-templates 
 tags: [airtable, database, productivity, spreadsheet, naas_drivers, operations, snippet, dataframe]
 type: jupyter
-preview: images/preview.png
+preview: "images/preview.png"
